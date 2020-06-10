@@ -15,7 +15,7 @@ script:
 branches:
   only:
     - master
-    - beta
+    - debug-ts-transition
 
 jobs:
   include:
